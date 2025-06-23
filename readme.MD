@@ -2,12 +2,6 @@
 
 <div align="center">
 
-```ascii
-    ╭─────────────────────────────────────────────╮
-    │  ◢◤ CRAFTING DIGITAL EXCELLENCE & INNOVATION ◢◤  │
-    ╰─────────────────────────────────────────────╯
-```
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Cloud+Solutions+Architect;API+Engineering+Expert;Database+Optimization+Specialist)
 
 <img src="https://komarev.com/ghpvc/?username=holycann&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" alt="Profile Views" />
@@ -68,7 +62,7 @@ graph TD
 
 ---
 
-## 📊 **INTERACTIVE PERFORMANCE DASHBOARD**
+## 📊 **PERFORMANCE DASHBOARD**
 
 <div align="center">
 
@@ -81,29 +75,6 @@ graph TD
 
 ### **📈 Contribution Activity**
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=holycann&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff)
-
-</div>
-
----
-
-## 🎯 **PROFESSIONAL EXPERTISE**
-
-<div align="center">
-
-```
-    ╭─────────────── SKILL PROFICIENCY MATRIX ───────────────╮
-    │                                                        │
-    │  🚀 Backend Development    ██████████████ 95%          │
-    │  🎨 Frontend Engineering   ████████████   90%          │
-    │  ☁️ Cloud Architecture     ████████████   88%          │
-    │  🗄️ Database Design        ███████████    85%          │
-    │  🐳 DevOps & Containers    ████████████   92%          │
-    │  🔧 API Development        ██████████████ 98%          │
-    │  📊 System Optimization    ████████████   87%          │
-    │  🛡️ Security Implementation ███████████    83%          │
-    │                                                        │
-    ╰────────────────────────────────────────────────────────╯
-```
 
 </div>
 
@@ -192,27 +163,6 @@ Innovation_Focus:
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/holycann)
-
-</div>
-
----
-
-## 🏆 **ACHIEVEMENT METRICS**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=holycann&theme=darkhub&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" />
-
-### **📊 Weekly Development Stats**
-
-<!--START_SECTION:waka-->
-```text
-Go           12 hrs 45 mins  ████████████░░░░░  68.5%
-JavaScript    4 hrs 32 mins  ██████░░░░░░░░░░░  24.3%
-TypeScript    1 hr 15 mins   ██░░░░░░░░░░░░░░░   6.7%
-SQL          12 mins         ░░░░░░░░░░░░░░░░░   0.5%
-```
-<!--END_SECTION:waka-->
 
 </div>
 
