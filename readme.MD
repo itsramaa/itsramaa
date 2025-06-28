@@ -15,12 +15,11 @@
 ```mermaid
 graph TD
     A[🧠 DEVELOPMENT CORE] --> B[⚡ Backend Systems]
-    A --> C[🎨 Frontend Solutions] 
+    A --> C[🎨 Frontend] 
     B --> E[Go Language]
     B --> F[API Gateways]
     B --> G[Database Layer]
     C --> H[React Applications]
-    C --> I[Interactive UIs]
     G --> L[Firebase]
     G --> M[PostgreSQL]
     G --> N[MySQL/MariaDB]
