@@ -1,8 +1,8 @@
-# 🚀 HOLYCANN • Full Stack Developer & Cloud Architect
+# 🚀 HOLYCANN • Full Stack Developer
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Cloud+Solutions+Architect;API+Engineering+Expert;Database+Optimization+Specialist)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;API+Engineer;)
 
 <img src="https://komarev.com/ghpvc/?username=holycann&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 
@@ -16,14 +16,11 @@
 graph TD
     A[🧠 DEVELOPMENT CORE] --> B[⚡ Backend Systems]
     A --> C[🎨 Frontend Solutions] 
-    A --> D[☁️ Cloud Infrastructure]
-    B --> E[Go Microservices]
+    B --> E[Go Language]
     B --> F[API Gateways]
     B --> G[Database Layer]
     C --> H[React Applications]
     C --> I[Interactive UIs]
-    D --> J[Azure Services]
-    D --> K[AWS Infrastructure]
     G --> L[Firebase]
     G --> M[PostgreSQL]
     G --> N[MySQL/MariaDB]
@@ -45,7 +42,6 @@ graph TD
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### **🗄️ Database Systems**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -86,44 +82,30 @@ graph TD
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ **Backend Excellence**
-- **Microservices Architecture** with Go
-- **RESTful API Design** & GraphQL
+### 🖥️ **Backend**
+- **RESTful API Design**
 - **Real-time Systems** with WebSockets
-- **High-Performance** server optimization
-- **Message Queuing** & Event-driven systems
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 **Frontend Innovation**
+### 🎨 **Frontend**
 - **Modern React** ecosystems
-- **Responsive Design** principles  
-- **State Management** solutions
-- **Progressive Web Apps** (PWA)
-- **Interactive UI/UX** development
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ **Database Mastery**
-- **Multi-database** architecture design
-- **Query Optimization** & indexing
+### 🗄️ **Database**
+- **Multi-database** architecture
 - **Real-time Synchronization** with Firebase
-- **Data Migration** strategies
-- **Performance Tuning** & scaling
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ **Cloud Solutions**
+### ☁️ **Cloud**
 - **Containerization** with Docker
-- **Azure & AWS** service integration
-- **Scalable Infrastructure** design
-- **CI/CD Pipeline** automation
-- **Monitoring & Analytics** systems
 
 </td>
 </tr>
@@ -147,7 +129,6 @@ Innovation_Focus:
   - 🤖 Automated Testing & QA
   - 📊 Data-Driven Architecture
   - 🔄 Continuous Integration
-  - 🛡️ Zero-Downtime Deployments
   - 📈 Scalable System Design
 ```
 
@@ -170,20 +151,9 @@ Innovation_Focus:
 
 <div align="center">
 
-```ascii
-╭─────────────────────────────────────────────╮
-│                                             │
-│  "Excellence in code, innovation in design, │
-│   reliability in every solution delivered"  │
-│                                             │
-│                 - HOLYCANN                  │
-│                                             │
-╰─────────────────────────────────────────────╯
-```
-
 ### 💫 **Engineering the Future Through Code**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=⚡%20POWERED%20BY%20INNOVATION%20⚡&fontSize=16&fontColor=fff&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=⚡%20Holycan%20⚡&fontSize=16&fontColor=fff&animation=twinkling)
 
 </div>
 
