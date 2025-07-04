@@ -14,63 +14,57 @@
 
 ```mermaid
 graph TD
-    %% Root
-    A[🧠 HOLYCAN'S SKILL MAP] --> Backend
-    A --> Tools
+    %% Root System
+    A[🧠 SYSTEM ARCHITECTURE] --> Backend
     A --> Frontend
+    A --> Platform
 
-    %% BACKEND SYSTEMS
-    subgraph Backend [⚡ BACKEND SYSTEMS]
+    %% Backend Layer
+    subgraph Backend [⚡ Backend Layer]
         direction TB
-        BE1[Go]
-        BE2[Node.js]
-        BE3[PHP]
-        BE4[RESTful APIs]
-        BE5[Firebase]
-        BE6[Database]
+        B1[API Gateway]
+        B2[Authentication Service]
+        B3[Business Logic Layer]
+        B4[Database Layer]
+        B5[Background Jobs / Bots]
 
-        BE1b[SOLID & DRY]
-        BE1c[Separation of Concerns]
-
-        BE3 --> BE3a[Laravel]
-
-        BE5 --> BE5a[Authentication]
-        BE5 --> BE5b[Firestore]
-
-        BE6 --> BE6a[PostgreSQL]
-        BE6 --> BE6b[MySQL/MariaDB]
-        BE6 --> BE6c[Firebase]
+        B1 --> B2
+        B2 --> B3
+        B3 --> B4
+        B3 --> B5
     end
 
-        %% TOOLS & PLATFORM
-    subgraph Tools [🛠 TOOLS & PLATFORM]
+    %% Frontend Layer
+    subgraph Frontend [🎨 Frontend Layer]
         direction TB
-        T1[Github]
-        T3[Wordpress]
-        T2[ClickUp]
-        T6[Excel / Spreadsheet]
-        T7[Figma]
-        T8[Canva]
+        F1[Component System]
+        F2[UI Logic]
+        F3[Page Routing]
+        F4[State Management]
+        F5[API Client]
+
+        F1 --> F2
+        F2 --> F3
+        F2 --> F4
+        F2 --> F5
     end
 
-    %% FRONTEND
-    subgraph Frontend [🎨 FRONTEND]
+    %% Tools / Platform Layer
+    subgraph Platform [🛠 Tools & Integration]
         direction TB
-        FE1[React.js]
-        FE2[HTML + CSS]
-        FE3[JavaScript]
-        FE4[PHP]
+        P1[Project Management]
+        P2[Design & Prototyping]
+        P3[Development Workflow]
+        P4[Git Versioning]
+        P4[Deployment]
+        P5[Monitoring & Logging]
 
-        FE1 --> FE1a[Next.js]
-        FE1 --> FE1b[Vite]
-
-        P5[Reusable Components]
-        P6[Modular Frontend]
+        P1 --> P2 --> P3 --> P4 --> P5
     end
 
-    %% Styling (futuristic minimalist look)
+    %% Styling (minimal futuristic)
     classDef clean fill:none,stroke:#7f8c8d,stroke-width:1.5px,color:#ecf0f1,font-size:14px;
-    class Backend,Frontend,Tools clean;
+    class Backend,Frontend,Platform clean;
     class A clean;
 ```
 
@@ -80,16 +74,23 @@ graph TD
 
 <div align="center">
 
+## 🛠️ TECHNOLOGY STACK
+
 ### **⚡ Core Development**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### **🔥 Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### **🗄️ Database Systems**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -97,10 +98,21 @@ graph TD
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### **☁️ Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### ⚙️ Platforms & CMS
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+### **🧰 Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
@@ -121,43 +133,6 @@ graph TD
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=holycann&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff)
 
 </div>
-
----
-
-## 🌟 **TECHNICAL SPECIALIZATIONS**
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ **Backend**
-- **RESTful API Design**
-- **Real-time Systems** with WebSockets
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 **Frontend**
-- **Modern React** ecosystems
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗄️ **Database**
-- **Multi-database** architecture
-- **Real-time Synchronization** with Firebase
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ **Cloud**
-- **Containerization** with Docker
-
-</td>
-</tr>
-</table>
 
 ---
 
