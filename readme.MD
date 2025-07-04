@@ -151,7 +151,7 @@ Mindset_Approach:
   - 🎯 Clarity in System Design
   - 🌐 Developer Experience + User Experience
   - 🚧 Always Iterating, Never Settling
-
+```
 
 ---
 
@@ -160,7 +160,7 @@ Mindset_Approach:
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://holyycan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/muhamad-ramadhan-bb6289237)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:muhamad.ramadhan.dev@gmail.com)
 
 </div>
@@ -171,7 +171,7 @@ Mindset_Approach:
 
 ### 💫 **Building Intelligent Systems with Purpose**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=⚡%20Holycan%20⚡&fontSize=16&fontColor=fff&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=🧠%20System%20Thinker%20|%20Holycan%20⚡&fontSize=17&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=4,6,24,20)
 
 </div>
 
