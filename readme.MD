@@ -17,6 +17,7 @@ graph TD
     A[🧠 DEVELOPMENT CORE] --> B[⚡ Backend Systems]
     A --> C[🎨 Frontend] 
     B --> E[Go Language]
+    B --> E[PHP]
     B --> F[API Gateways]
     B --> G[Database Layer]
     C --> H[React Applications]
