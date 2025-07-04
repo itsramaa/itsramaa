@@ -137,27 +137,21 @@ graph TD
 
 ## 🚀 **DEVELOPMENT PHILOSOPHY**
 
-<div align="center" style="font-family: 'Segoe UI', sans-serif; max-width: 800px; margin: auto; text-align: left; padding: 1.5rem; border: 2px solid #7f8c8d; border-radius: 12px; background: linear-gradient(145deg, #1e1e1e, #2c2c2c); color: #ecf0f1;">
+```yaml
+Core_Principles:
+  - 🧠 SOLID & DRY by Default
+  - 🧩 Modular & Reusable Components
+  - ⚙️ Separation of Concerns
+  - 📄 Documentation as a Habit
+  - 🧪 Testable & Maintainable Code
 
-  <h3 style="color:#00adb5;">🎯 Core Principles</h3>
-  <ul style="list-style: none; padding-left: 0;">
-    <li>🧠 <strong>SOLID & DRY by Default</strong></li>
-    <li>🧩 Modular & Reusable Components</li>
-    <li>⚙️ Clear Separation of Concerns</li>
-    <li>📄 Documentation as a Habit</li>
-    <li>🧪 Testable & Maintainable Code</li>
-  </ul>
+Mindset_Approach:
+  - 🔁 Automation for Efficiency (24/7 bots)
+  - 📊 Data-Driven Problem Solving
+  - 🎯 Clarity in System Design
+  - 🌐 Developer Experience + User Experience
+  - 🚧 Always Iterating, Never Settling
 
-  <h3 style="color:#00adb5;">🚧 Mindset & Approach</h3>
-  <ul style="list-style: none; padding-left: 0;">
-    <li>🔁 24/7 Automation (Bots & Background Jobs)</li>
-    <li>📊 Data-Driven Problem Solving</li>
-    <li>🎯 Clarity in System Design & Flow</li>
-    <li>🌐 Dev Experience = User Experience</li>
-    <li>🔄 Always Iterating, Never Settling</li>
-  </ul>
-
-</div>
 
 ---
 
