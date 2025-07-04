@@ -137,22 +137,25 @@ graph TD
 
 ## 🚀 **DEVELOPMENT PHILOSOPHY**
 
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', sans-serif; max-width: 800px; margin: auto; text-align: left; padding: 1.5rem; border: 2px solid #7f8c8d; border-radius: 12px; background: linear-gradient(145deg, #1e1e1e, #2c2c2c); color: #ecf0f1;">
 
-```yaml
-Core_Principles:
-  - 🎯 Clean, Maintainable Code
-  - ⚡ Performance-First Approach
-  - 🔒 Security by Design
-  - 📱 Mobile-Responsive Solutions
-  - 🌐 Cross-Platform Compatibility
+  <h3 style="color:#00adb5;">🎯 Core Principles</h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>🧠 <strong>SOLID & DRY by Default</strong></li>
+    <li>🧩 Modular & Reusable Components</li>
+    <li>⚙️ Clear Separation of Concerns</li>
+    <li>📄 Documentation as a Habit</li>
+    <li>🧪 Testable & Maintainable Code</li>
+  </ul>
 
-Innovation_Focus:
-  - 🤖 Automated Testing & QA
-  - 📊 Data-Driven Architecture
-  - 🔄 Continuous Integration
-  - 📈 Scalable System Design
-```
+  <h3 style="color:#00adb5;">🚧 Mindset & Approach</h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>🔁 24/7 Automation (Bots & Background Jobs)</li>
+    <li>📊 Data-Driven Problem Solving</li>
+    <li>🎯 Clarity in System Design & Flow</li>
+    <li>🌐 Dev Experience = User Experience</li>
+    <li>🔄 Always Iterating, Never Settling</li>
+  </ul>
 
 </div>
 
@@ -162,10 +165,9 @@ Innovation_Focus:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/holycann)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://holyycan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:muhamad.ramadhan.dev@gmail.com)
 
 </div>
 
@@ -173,7 +175,7 @@ Innovation_Focus:
 
 <div align="center">
 
-### 💫 **Engineering the Future Through Code**
+### 💫 **Building Intelligent Systems with Purpose**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=⚡%20Holycan%20⚡&fontSize=16&fontColor=fff&animation=twinkling)
 
@@ -182,5 +184,5 @@ Innovation_Focus:
 ---
 
 <div align="center">
-<sub>🌟 Crafted with precision and passion • Always evolving, always improving 🌟</sub>
+<sub>⚙️ Engineered with logic and intent • Evolving through clarity, efficiency, and automation ⚡</sub>
 </div>
