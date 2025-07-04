@@ -70,6 +70,7 @@ graph TD
 
     %% Styling (futuristic minimalist look)
     classDef clean fill:none,stroke:#7f8c8d,stroke-width:1.5px,color:#ecf0f1,font-size:14px;
+    class Backend,Frontend,Tools clean;
     class A clean;
 ```
 
