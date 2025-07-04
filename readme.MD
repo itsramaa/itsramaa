@@ -14,16 +14,63 @@
 
 ```mermaid
 graph TD
-    A[🧠 DEVELOPMENT CORE] --> B[⚡ Backend Systems]
-    A --> C[🎨 Frontend] 
-    B --> E[Go Language]
-    B --> E[PHP]
-    B --> F[API Gateways]
-    B --> G[Database Layer]
-    C --> H[React Applications]
-    G --> L[Firebase]
-    G --> M[PostgreSQL]
-    G --> N[MySQL/MariaDB]
+    %% Root
+    A[🧠 HOLYCAN'S SKILL MAP] --> Backend
+    A --> Tools
+    A --> Frontend
+
+    %% BACKEND SYSTEMS
+    subgraph Backend [⚡ BACKEND SYSTEMS]
+        direction TB
+        BE1[Go]
+        BE2[Node.js]
+        BE3[PHP]
+        BE4[RESTful APIs]
+        BE5[Firebase]
+        BE6[Database]
+
+        BE1b[SOLID & DRY]
+        BE1c[Separation of Concerns]
+
+        BE3 --> BE3a[Laravel]
+
+        BE5 --> BE5a[Authentication]
+        BE5 --> BE5b[Firestore]
+
+        BE6 --> BE6a[PostgreSQL]
+        BE6 --> BE6b[MySQL/MariaDB]
+        BE6 --> BE6c[Firebase]
+    end
+
+        %% TOOLS & PLATFORM
+    subgraph Tools [🛠 TOOLS & PLATFORM]
+        direction TB
+        T1[Github]
+        T3[Wordpress]
+        T2[ClickUp]
+        T6[Excel / Spreadsheet]
+        T7[Figma]
+        T8[Canva]
+    end
+
+    %% FRONTEND
+    subgraph Frontend [🎨 FRONTEND]
+        direction TB
+        FE1[React.js]
+        FE2[HTML + CSS]
+        FE3[JavaScript]
+        FE4[PHP]
+
+        FE1 --> FE1a[Next.js]
+        FE1 --> FE1b[Vite]
+
+        P5[Reusable Components]
+        P6[Modular Frontend]
+    end
+
+    %% Styling (futuristic minimalist look)
+    classDef clean fill:none,stroke:#7f8c8d,stroke-width:1.5px,color:#ecf0f1,font-size:14px;
+    class A clean;
 ```
 
 ---
