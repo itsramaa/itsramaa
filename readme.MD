@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;API+Engineer;Automation+&+Tooling+Developer;Low-Code/Design-Aware+Implementer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;API+Engineer;Automation+%26+Tooling+Developer;Low-Code%2FDesign-Aware+Implementer)
 
 <img src="https://komarev.com/ghpvc/?username=holycann&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 
