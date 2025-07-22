@@ -122,7 +122,6 @@ graph TD
 <div align="center">
 
 ### **⚡ Development Statistics**
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=holycann&show_icons=true&theme=react&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=holycann&theme=react&border=00d9ff&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 
 ### **🔥 Code Distribution Matrix**
