@@ -170,7 +170,7 @@ Mindset_Approach:
 
 ### 💫 **Building Intelligent Systems with Purpose**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=🧠%20System%20Thinker%20|%20Holycan%20⚡&fontSize=17&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=4,6,24,20)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=🧠%20System%20Thinker%20|%20Itsramaa%20⚡&fontSize=17&fontColor=ffffff&animation=twinkling&color=gradient&customColorList=4,6,24,20)
 
 </div>
 
